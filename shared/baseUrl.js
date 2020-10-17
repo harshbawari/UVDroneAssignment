@@ -1,0 +1,1 @@
+export const baseUrl = 'https://europe-west1-boom-dev-7ad08.cloudfunctions.net/videoFeed';
